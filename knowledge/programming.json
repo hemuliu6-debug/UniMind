@@ -1,0 +1,5 @@
+[
+  {"id":"g-001","title":"Python SyntaxError 常见原因","keywords":["SyntaxError","语法错误","冒号","for i"],"content":"检查 if/for/def 等复合语句末尾冒号、括号闭合和缩进是否正确；不能单凭截断报错推断全部原因。","source":"小组自编 Python 基础调试卡（示例）"},
+  {"id":"g-002","title":"ModuleNotFoundError 处理","keywords":["ModuleNotFoundError","pip","模块","安装"],"content":"通常应确认当前运行的 Python 解释器和安装包的解释器一致，建议使用 python -m pip install 包名；也可能是包名拼写错误。","source":"小组自编 Python 环境调试卡（示例）"},
+  {"id":"g-003","title":"列表下标错误","keywords":["IndexError","下标","列表","索引"],"content":"列表索引从 0 开始，访问位置必须位于有效范围。检查循环边界、len() 和切片用法。","source":"小组自编 Python 基础调试卡（示例）"}
+]
